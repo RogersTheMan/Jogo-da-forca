@@ -1,0 +1,9 @@
+8
+programador
+alura
+curso em vídeo
+software
+ruby
+javascript
+rodrigo
+desenvolvedor
